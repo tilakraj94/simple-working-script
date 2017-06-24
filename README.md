@@ -4,7 +4,7 @@ It can be included at the starting of the page or can be included anywhere and c
 
 # What was the point of the script?
  
-The basic idea was to implement a script which can be provided to various web users , who can then use this script some basic tasks and can connect to the main server.It authenticates the domain as well as the unique code passed to the web user.
+The basic idea was to implement a script which can be provided to various web users , who can then use this script to perform some basic tasks and can connect to the main server.It authenticates the domain as well as the unique code passed to the web user.
 
 Code Include a variable param whose values can be changed to get the required functions.
 
